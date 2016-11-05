@@ -12,13 +12,27 @@
 
 ### Proposition 51 · $9 Billion Bond for modernizing K-12, charter, vocational schools and community colleges
 
+YES
+
+
 ### Proposition 52 · Extends existing fee on hospitals to fund coverage for Medi-Cal, uninsured patients, and children's health
+
+YES seems simple
+
 
 ### Proposition 53 · Requires statewide voter approval for bonds over $2 billion
 
+NO
+
+
 ### Proposition 54 · Stops the legislature from passing any bill unless it's published on the internet for 72 hours
 
+Dunno weird.
+
+
 ### Proposition 55 · Extends income tax on earnings over $250,000 to fund schools and healthcare
+
+YES
 
 
 ### Proposition 56 · Increases taxes on tobacco and e-cigarettes to increase funding for health care for low-income Californians
@@ -33,7 +47,13 @@ Not sure -- maybe?
 
 ### Proposition 58 · Allows schools to establish non English-only education programs
 
+**research more**
+This is interesting ... interesting to me because of Spanish language.
+
+
 ### Proposition 59 · Recommends California propose an amendment to overturn Citizens United decision, which removed some limits for corporate and union campaign spending
+
+YES seems fine to me although Jerry Brown dislikes it
 
 
 ### Proposition 60 · Requires adult film performers to use condoms when filming, and other health regulations
@@ -53,6 +73,11 @@ https://ballot.fyi/61/
 YES repeat death penalty
 
 
+### Proposition 66 · Changes procedures governing state court challenges to death sentences
+
+NO no speeding up death penalty
+
+
 ### Proposition 63 · Requires background checks for purchasing ammunition and prohibits possession of large capacity magazines
 
 YES make it harder to buy ammunition
@@ -69,6 +94,5 @@ Proposition 65 · Requires plastic bag fees be directed toward specified environ
 Proposition 67 · Bans single-use plastic and paper bags
 
 
-### Proposition 66 · Changes procedures governing state court challenges to death sentences
 
 
